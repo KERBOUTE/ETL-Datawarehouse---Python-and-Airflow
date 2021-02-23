@@ -398,7 +398,7 @@ packages and configuring the
 environment, you can access airflow
 under the default port 8081.
 `$airflow webserver -p 8081`
-![Airflow Dag Pipeline](./img_workflow.jpg)
+![Airflow Dag Pipeline](./img_worflow.jpg)
 our ETL will be a bunch of stain and
 of dagger chained
 
