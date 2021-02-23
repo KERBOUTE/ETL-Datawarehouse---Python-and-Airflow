@@ -372,7 +372,7 @@ The solution was the use of a linux
 subsystem on windows.
 
 ![Donwload Ubuntu Microsoft Store](./img_ubuntu.JPG)
-In Airflow, a DAG -- or directed acyclic
+* In Airflow, a DAG -- or directed acyclic
 graph -- is a set of all the tasks you want
 to perform, organized to reflect their
 relationships and dependencies.
@@ -393,13 +393,13 @@ date.
 This is the case of the andtl on will be
 based on the logic of the DAG.
 ![launch of the apache airflow](./img_airflow.JPG)
-After installing the airflow and python
+* After installing the airflow and python
 packages and configuring the
 environment, you can access airflow
 under the default port 8081.
-`$airflow webserver -p 8081`
+   * `$airflow webserver -p 8081`
 ![Airflow Dag Pipeline](./img_worflow.jpg)
-our ETL will be a bunch of stain and
+* our ETL will be a bunch of stain and
 of dagger chained
 
 
