@@ -392,13 +392,13 @@ pm, but should not start before a certain
 date.
 This is the case of the andtl on will be
 based on the logic of the DAG.
-![launch of the apache airflow](./img_aiflow.JPG)
+![launch of the apache airflow](./img_airflow.JPG)
 After installing the airflow and python
 packages and configuring the
 environment, you can access airflow
 under the default port 8081.
 `$airflow webserver -p 8081`
-![Airflow Dag Pipeline](./img_workflow.JPG)
+![Airflow Dag Pipeline](./img_workflow.jpg)
 our ETL will be a bunch of stain and
 of dagger chained
 
@@ -406,7 +406,7 @@ of dagger chained
 ## Data reproduction
 The management dashboard is a method of evaluating the organization of a company or institution which consists of multiple measures of performance at times particular or over several periods of time. In the field of monitoring economic, the dashboard of management is used in industries to allow you to view the raw data and make them more transparent. usable and understandable, by using for this purpose various visual and various representations forms of prioritization of data. This is an important way to have a vision of the stakes of sound real time operation or deferred. Data aggregation main ones allows to reach the productivity and to make better choice.
 My dashboard is a simple example of the graphs we can make from our data entropot. I used both methods to create my graphs, the cloud computing service chart-studio.plotly which makes the task much easier but with limitations of use, it was first the case for other tools like Power BI, Tableau, Kibana etc, which pushed me to work also with the classical method of graph creation based on python codes. 
-![Airflow Dag Pipeline](./img_dashboard.JPG)
+![Airflow Dag Pipeline](./img_dashboard.jpg)
 ## Contact
 Created by me [Amine KERBOUTE](https://github.com/KERBOUTE)
 
